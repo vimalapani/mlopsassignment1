@@ -37,7 +37,7 @@ iris-classification/
 
 # 1. Clone the repository:
 
-git clone https://github.com/your-username/iris-classification.git
+git clone https://github.com/vimalapani/mlopsassignment1
 
 
 # 2. Install the required dependencies:
