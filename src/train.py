@@ -12,5 +12,6 @@ def train_model():
     print(f"Test accuracy: {score:.2f}")
     joblib.dump(model, "model.joblib")
 
+
 if __name__ == "__main__":
     train_model()
